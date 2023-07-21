@@ -1,0 +1,39 @@
+
+1. What is javascript?
+
+javascript is the most popular and widely use programming language in the world
+it growing fastest around world
+many companies entirely build their applications using javascript
+
+work as a:
+=> front end developer
+=> backend developer
+=> full stack developer
+
+2. What can you do with it?
+
+javascript was only used in web browsers to build interative web pages
+huge community support and investment like companies google and facebook
+
+You can develop:
+=> mobile applications
+=> games
+=> real-time networking apps 
+
+3. Where does javascript code run?
+javascript was originally designed to run on browsers
+every browser has javascript engine that can execute javascript code 
+
+node = javascript chrome engine inside c++ program
+
+node is a c++ program that include googles v8 javascript engine
+with this we can run javascript code out of a browser
+
+with this we can build backend of web and mobile applications
+
+javascript code  can be run inside of a browser or in node browser and node provide a rutime environment for our javascript  code 
+
+4. What is the difference between javascript and ecma script?
+ecma script is a specification
+javascript is a programming language
+
